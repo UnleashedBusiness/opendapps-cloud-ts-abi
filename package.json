@@ -1,0 +1,12 @@
+{
+  "name": "@unleashed/opendapps-cloud-ts-abi",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "ShadowsCrypto",
+  "license": "BSL-1.0",
+  "files": [
+    "/dist"
+  ]
+}
