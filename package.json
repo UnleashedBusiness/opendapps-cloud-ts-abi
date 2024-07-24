@@ -1,6 +1,6 @@
 {
   "name": "@unleashed-business/opendapps-cloud-ts-abi",
-  "version": "3.4.0",
+  "version": "3.4.1-beta.0",
   "description": "",
   "private": false,
   "main": "dist/index.js",
